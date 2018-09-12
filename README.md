@@ -32,6 +32,5 @@ Breadth First should print:
 43
 61
 74
-
 The minimum-cost path should be:
 21 11 13 12
