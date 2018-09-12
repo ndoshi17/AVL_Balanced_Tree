@@ -120,7 +120,7 @@ void printBreadthFirstTree(struct AVLTree *tree){
   int start = 0; /* start index of queue indicating the first element to be processed */
   int end = 0;  /* end index of queue indicating the latest element added to the queue */
    
-  /* allocate memory to queque */
+  /* allocate memory to queue */
   queue = (struct AVLnode **) malloc(100*sizeof(struct AVLnode));
    
 
