@@ -148,6 +148,7 @@ void printBreadthFirstTree(struct AVLTree *tree){
     }
 
   }
+  free(queue);
 
 
 }
